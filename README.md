@@ -1,91 +1,34 @@
-# Hi there 👋, I'm Rahul
+<h1 align="center">Hi 👋, I'm Rahul Jimmy</h1>
+<h3 align="center">A passionate data scientist from India</h3>
 
-🎯 Aspiring **Data Scientist** with a strong background in **Mathematics and Statistics**.  
-💡 Passionate about building intelligent systems using **Machine Learning, Deep Learning, and Data Analysis**.  
-🚀 Currently focused on developing real-world projects and preparing for opportunities in **Data Science and AI**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljimmy&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljimmy" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuljimmy" alt="rahuljimmy" /></a> </p>
 
-## 👨‍💻 About Me
+- 🔭 I’m currently working on **Customer Shopping Behavior Analysis**
 
-- 🎓 Graduate in **Mathematics**
-- 🎓 Postgraduate in **Statistics**
-- 📊 Strong interest in **Data Science, Machine Learning, and Deep Learning**
-- 🧠 Currently building projects in **ML, NLP, and Computer Vision**
-- 🎯 Goal: To work as a **Data Scientist in a leading tech company**
+- 🌱 I’m currently learning **Deep Learning**
 
----
+- 👯 I’m looking to collaborate on **Data related Projects**
 
-## 🛠️ Skills & Tools
+- 🤝 I’m looking for help with **Data Science**
 
-### Programming
-- Python
-- R
+- 💬 Ask me about **Data Science, Machine Learning**
 
-### Database
-- MySQL
+- 📫 How to reach me **rahuljimmy18@gmail.com**
 
-### Data Science & Machine Learning
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahuljimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuljimmy" height="30" width="40" /></a>
+<a href="https://kaggle.com/rahuljimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahuljimmy" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_jimmy_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_jimmy_18" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/680006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="680006" height="30" width="40" /></a>
+</p>
 
-### Libraries & Frameworks
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Keras
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Data Visualization
-- Matplotlib
-- Seaborn
-- Power BI
-- Excel
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuljimmy&show_icons=true&locale=en&layout=compact" alt="rahuljimmy" /></p>
 
-### Tools & Platforms
-- Git
-- GitHub
-- Jupyter Notebook
-- Streamlit
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljimmy&show_icons=true&locale=en" alt="rahuljimmy" /></p>
 
----
-
-## 📌 Featured Projects
-
-### 🌿 Plant Disease Recognition using Deep Learning
-- Built a **Deep Learning model** to detect plant diseases from leaf images.
-- Model also **predicts the plant type and disease type**.
-- Deployed the application using **Streamlit Cloud**.
-
-🔗 Project Link: (https://github.com/rahuljimmy/Plant_disease_recognition)
-
----
-
-### 🎬 Movie Recommendation System
-- Developed a **content-based movie recommender system**.
-- Used **NLP techniques** on the movie overview column.
-- Implemented **cosine similarity** to recommend similar movies.
-
-🔗 Project Link: (https://github.com/rahuljimmy/Movie_recommendation_system)
-
----
-
-## 📚 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Model Deployment
-- End-to-End Data Science Projects
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/rahuljimmy)
-- 💻 GitHub: (https://github.com/rahuljimmy)
-
----
-
-⭐ From [rahuljimmy](https://github.com/rahuljimmy)
